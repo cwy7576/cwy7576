@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm AbdiwaliYusufOsman</h1>
 <h3 align="center">A passionate frontend and backend developer from Somalia</h3>
-<img alig="center" alt="coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alig="center" alt="coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 💬 Ask me about **flutter,python,flask,html**
